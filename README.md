@@ -1,2 +1,2 @@
 # ISWT
-This is the EE 464 Hardware Project Repository
+2017-2018 Spring Term EE 464 Hardware Project Repository
