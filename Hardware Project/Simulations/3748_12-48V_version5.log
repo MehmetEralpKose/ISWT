@@ -1,0 +1,31 @@
+Circuit: * E:\GitHub\ISWT\Hardware Project\Simulations\3748_12-48V_version5.asc
+
+Warning: Multiple definitions of model "u1:sdn" Type: Switch
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u1:8)
+Ignoring empty pin current: Ix(u1:9)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u1:8)
+Ignoring empty pin current: Ix(u1:9)
+
+Date: Mon May 28 18:49:05 2018
+Total elapsed time: 37.107 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3866192
+traniter = 3866162
+tranpoints = 1031949
+accept = 750128
+rejected = 281821
+matrix size = 75
+fillins = 17
+solver = Normal
+Thread vector: 6.7/5.5[2] 3.8/3.0[2] 1.6/1.0[2] 0.3/0.9[1]  2592/500
+Matrix Compiler1: 3.49 KB object code size  1.5/0.6/[0.2]
+Matrix Compiler2: off  [0.4]/0.8/0.5
+
